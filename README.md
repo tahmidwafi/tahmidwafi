@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Tahmid Sharif
-#### Learner | Educator
+# Hi there 👋, I'm Tahmid Sharif
+### Learner | Educator
 ![Learner | Educator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi, I'm [Your Name], a software developer and educator with a passion for coding and teaching. My primary areas of focus include web development, Python programming, and creating educational content. I enjoy building modern, responsive websites using HTML and CSS, while continuously improving my skills in JavaScript. Python is my favorite programming language, and I use it for everything from side projects to exploring AI and automation.
