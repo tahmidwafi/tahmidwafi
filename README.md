@@ -2,7 +2,11 @@
 #### Learner | Educator
 ![Learner | Educator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hi, I'm [Your Name], a software developer and educator with a passion for coding and teaching. My primary areas of focus include web development, Python programming, and creating educational content. I enjoy building modern, responsive websites using HTML and CSS, while continuously improving my skills in JavaScript. Python is my favorite programming language, and I use it for everything from side projects to exploring AI and automation.
+
+In addition to coding, I love sharing knowledge through tutorials, blog posts, and videos on my YouTube channel, CodePanel. I'm also working on writing books that cover topics like Python programming and English grammar. When I’m not developing projects or writing, I contribute to open-source communities and collaborate with other developers to create useful tools.
+
+Currently, I’m working on various personal projects, including a Python-based calculator and a portfolio website. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
 
 Skills: HTML | CSS | JS | React | Python | Django | Flask | Bootstrap
 
