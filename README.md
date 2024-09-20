@@ -8,7 +8,15 @@ In addition to coding, I love sharing knowledge through tutorials, blog posts, a
 
 Currently, I’m working on various personal projects, including a Python-based calculator and a portfolio website. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
 
-Skills: HTML | CSS | JS | React | Python | Django | Flask | Bootstrap
+### Skills
+- HTML
+- CSS
+- Javascript
+- React
+- Python
+- Dhjango
+- Flask
+- Bootstrap
 
 - 🌱 I’m currently learning Django  
 - 👯 I’m looking to collaborate on Github 
