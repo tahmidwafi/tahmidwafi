@@ -16,15 +16,16 @@ In addition to coding, I love sharing knowledge through tutorials, blog posts, a
 Currently, I’m working on various personal projects, including a Python-based calculator and a portfolio website. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
 
 ## Skills
-- ✅ HTML
-✅ CSS
-✅ Bootstrap
-✅ Javascript
-✅ React
-✅ Python
-✅ Dhjango
-✅ Flask
-
+<ul>
+  <li>✅ HTML</li>
+  <li>✅ CSS</li>
+  <li>✅ Bootstrap</li>
+  <li>✅ Javascript</li>
+  <li>✅ React</li>
+  <li>✅ Python</li>
+  <li>✅ Dhjango</li>
+  <li>✅ Flask</li>
+</ul>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/http://x.com/home)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@codepanel2024)  
 
