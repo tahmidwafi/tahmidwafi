@@ -2,18 +2,12 @@
 ### Learner | Educator
 ![Learner | Educator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🌱 I’m currently learning Django  
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: codepanel2024@gmail.com 
-- ⚡ Fun fact: Solving Math Problem
-
 <p>
-🌱 I’m currently learning Django
-👯 I’m looking to collaborate on Github
-💬 Ask me about Web Development
-📫 How to reach me: codepanel2024@gmail.com
-⚡ Fun fact: Solving Math Problem
+🌱 I’m currently learning Django <br>
+👯 I’m looking to collaborate on Github <br>
+💬 Ask me about Web Development <br>
+📫 How to reach me: codepanel2024@gmail.com <br>
+⚡ Fun fact: Solving Math Problem <br>
 </p>
 
 ## About Me
@@ -43,8 +37,4 @@ Currently, I’m working on various personal projects, including a Python-based 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-TahmidSharifWafi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-TahmidSharifWafi&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Md-TahmidSharifWafi/contributions?format=svg&private=false)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-TahmidSharifWafi)  
 
