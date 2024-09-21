@@ -31,7 +31,7 @@ Currently, I’m working on various personal projects, including a Python-based 
 </pre>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Md-TahmidSharifWafi)](https://github.com/ryo-ma/github-profile-trophy)
 
