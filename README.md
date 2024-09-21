@@ -18,13 +18,13 @@ Currently, I’m working on various personal projects, including a Python-based 
 ## Skills
 <ul>
   <li style="list-style: none;">✅ HTML</li>
-  <li>✅ CSS</li>
-  <li>✅ Bootstrap</li>
-  <li>✅ Javascript</li>
-  <li>✅ React</li>
-  <li>✅ Python</li>
-  <li>✅ Dhjango</li>
-  <li>✅ Flask</li>
+  <li style="list-style: none;">✅ CSS</li>
+  <li style="list-style: none;">✅ Bootstrap</li>
+  <li style="list-style: none;">✅ Javascript</li>
+  <li style="list-style: none;">✅ React</li>
+  <li style="list-style: none;">✅ Python</li>
+  <li style="list-style: none;">✅ Dhjango</li>
+  <li style="list-style: none;">✅ Flask</li>
 </ul>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/http://x.com/home)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@codepanel2024)  
