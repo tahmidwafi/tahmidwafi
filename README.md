@@ -30,12 +30,7 @@ Currently, I’m working on various personal projects, including a Python-based 
   ✅ Flask</li>
 </pre>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-TahmidSharifWafi)](https://github.com/anuraghazra/github-readme-stats) 
 
-[<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Md-TahmidSharifWafi)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-TahmidSharifWafi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-TahmidSharifWafi&show_icons=true)  
-
+##You can reach me on
+[<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
