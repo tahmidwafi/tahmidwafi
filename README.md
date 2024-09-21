@@ -27,6 +27,11 @@ Currently, I’m working on various personal projects, including a Python-based 
   <li style="list-style: none;">✅ Flask</li>
 </ul>
 
+<pre>
+  tahmid
+  boka
+</pre>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/http://x.com/home)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@codepanel2024)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Md-TahmidSharifWafi)](https://github.com/ryo-ma/github-profile-trophy)
