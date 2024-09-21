@@ -2,6 +2,12 @@
 ### Learner | Educator
 ![Learner | Educator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+- 🌱 I’m currently learning Django  
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: codepanel2024@gmail.com 
+- ⚡ Fun fact: Solving Math Problem 
+
 ## About Me
 Hi, I'm [Your Name], a software developer and educator with a passion for coding and teaching. My primary areas of focus include web development, Python programming, and creating educational content. I enjoy building modern, responsive websites using HTML and CSS, while continuously improving my skills in JavaScript. Python is my favorite programming language, and I use it for everything from side projects to exploring AI and automation.
 
@@ -9,21 +15,15 @@ In addition to coding, I love sharing knowledge through tutorials, blog posts, a
 
 Currently, I’m working on various personal projects, including a Python-based calculator and a portfolio website. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
 
-### Skills
-- HTML
-- CSS
-- Javascript
-- React
-- Python
-- Dhjango
-- Flask
-- Bootstrap
-
-- 🌱 I’m currently learning Django  
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: codepanel2024@gmail.com 
-- ⚡ Fun fact: Solving Math Problem 
+## Skills
+✅ HTML
+✅ CSS
+✅ Bootstrap
+✅ Javascript
+✅ React
+✅ Python
+✅ Dhjango
+✅ Flask
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/http://x.com/home)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@codepanel2024)  
