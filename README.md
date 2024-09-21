@@ -17,7 +17,7 @@ Currently, I’m working on various personal projects, including a Python-based 
 
 ## Skills
 <ul>
-  <li>✅ HTML</li>
+  <li style="list-style: none;">✅ HTML</li>
   <li>✅ CSS</li>
   <li>✅ Bootstrap</li>
   <li>✅ Javascript</li>
