@@ -6,7 +6,15 @@
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: codepanel2024@gmail.com 
-- ⚡ Fun fact: Solving Math Problem 
+- ⚡ Fun fact: Solving Math Problem
+
+<p>
+🌱 I’m currently learning Django
+👯 I’m looking to collaborate on Github
+💬 Ask me about Web Development
+📫 How to reach me: codepanel2024@gmail.com
+⚡ Fun fact: Solving Math Problem
+</p>
 
 ## About Me
 Hi, I'm Tahmid Sharif, a Learner and Little Educator with a passion for coding and teaching. My primary areas of focus include web development, Python programming, and creating educational content. I enjoy building modern, responsive websites using HTML and CSS, while continuously improving my skills in JavaScript. Python is my favorite programming language, and I use it for everything from side projects to exploring AI and automation.
@@ -16,9 +24,6 @@ In addition to coding, I love sharing knowledge through tutorials, blog posts, a
 Currently, I’m working on various personal projects, including a Python-based calculator and a portfolio website. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
 
 ## Skills
-<ul>
-
-</ul>
 
 <pre>
   ✅ HTML</li>
@@ -40,8 +45,6 @@ Currently, I’m working on various personal projects, including a Python-based 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-TahmidSharifWafi&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Md-TahmidSharifWafi/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Md-TahmidSharifWafi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-TahmidSharifWafi)  
 
