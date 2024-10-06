@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tahmid Sharif
 ### Learner | Educator
-![Learner | Educator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Learner | Educator](![image](https://github.com/user-attachments/assets/bb3a0c86-0e89-461e-abf6-f24e2f7f1376))
 
 <p>
 🌱 I’m currently learning Django <br>
