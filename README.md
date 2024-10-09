@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tahmid Sharif
 ### Learner | Educator
-[Learner | Educator]
+![I am GitHub Readme Generator's creator]("E:\02 Tahmid Stocks\03 Programming Related\2 Pictures\Linkedin Profile Banner.png")
 
 <p>
 🌱 I’m currently learning Django <br>
