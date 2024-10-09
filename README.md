@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tahmid Sharif
 ### Learner | Educator
-![I am GitHub Readme Generator's creator]("[E:\02 Tahmid Stocks\03 Programming Related\2 Pictures\Linkedin Profile Banner.png](https://media.licdn.com/dms/image/v2/D4D16AQHsTlmT3cJ4Fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728191007957?e=1733961600&v=beta&t=RyMPgTIyIIAuE-QRatpfKtk45wWXl4Mq9STgXEUI5rQ)")
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4D16AQHsTlmT3cJ4Fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728191007957?e=1733961600&v=beta&t=RyMPgTIyIIAuE-QRatpfKtk45wWXl4Mq9STgXEUI5rQ)
 
 <p>
 🌱 I’m currently learning Django <br>
