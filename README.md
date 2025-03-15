@@ -2,6 +2,14 @@
 ### Learner | Educator
 ![](https://pbs.twimg.com/profile_banners/1818892229093773312/1728453928/600x200)
 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 <p>
 🌱 I’m currently learning Django <br>
 👯 I’m looking to collaborate on Github <br>
