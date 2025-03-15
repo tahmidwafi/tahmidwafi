@@ -33,7 +33,7 @@ Currently, I’m working on various personal projects, including a Python-based 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-TahmidSharifWafi)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## You can reach me on
-[<img src='https://w7.pngwing.com/pngs/529/662/png-transparent-github-github-logo-github-3d-logo-3d-github-logo-3d-github-social-media-3d-icon-thumbnail.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
+[<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
 
 ## For Learning Purposes, you can visit
 <a href="codepanel.com" disabled>codepanel.com</a>
