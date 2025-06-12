@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tahmid Sharif
 ### Learner | Educator
-![](https://pbs.twimg.com/profile_banners/1818892229093773312/1742026124)
+![]([https://pbs.twimg.com/profile_banners/1818892229093773312/1742026124](https://github.com/tahmidwafi/tahmidwafi/blob/main/Github%20Profile%20Banner.png))
 
 <p>
 🌱 I’m currently learning Django <br>
