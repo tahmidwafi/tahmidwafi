@@ -21,44 +21,40 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 
 <table align="center">
 <tr>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br>
   <b>HTML5</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br>
   <b>CSS3</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /><br>
   <b>JavaScript</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br>
   <b>Bootstrap</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" /><br>
   <b>React</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" /><br>
-  <b>Node.js</b>
-</td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /><br>
   <b>Python</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br>
   <b>Git</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" /><br>
   <b>GitHub</b>
 </td>
-<td align="center" width="120" height="120">
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" /><br>
+<td align="center" width="80" height="80">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" /><br>
   <b>VS Code</b>
 </td>
 </tr>
