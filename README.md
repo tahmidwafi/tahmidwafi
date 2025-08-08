@@ -20,19 +20,19 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="reactjs logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=reactjs" height="60" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootrtrap" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="javascript logo"  />
 </div>
 
 <div align="center">
