@@ -37,15 +37,7 @@ Currently, I’m working on various personal projects, including a Python-based 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahmidwafi" alt="tahmidwafi" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidwafi&show_icons=true&locale=en&layout=compact" alt="tahmidwafi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidwafi&show_icons=true&locale=en" alt="tahmidwafi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidwafi&" alt="tahmidwafi" /></p> 
 
 ## You can reach me on
 [<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
