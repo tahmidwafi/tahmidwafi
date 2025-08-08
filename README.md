@@ -45,10 +45,6 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" /><br>
   <b>Node.js</b>
 </td>
-</tr>
-
-<tr>
-
 <td align="center" width="120" height="120">
   <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /><br>
   <b>Python</b>
