@@ -77,5 +77,5 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/tahmidwafi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tahmidwafi/)
 [![CaptainBinary](https://img.shields.io/badge/CaptainBinary-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://captainbinary.com/performance)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidsharifwafi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codepanel2024@gmail.com)
 
