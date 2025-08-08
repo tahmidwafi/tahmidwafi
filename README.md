@@ -17,7 +17,7 @@ In addition to coding, I love sharing knowledge through tutorials, blog posts, a
 
 Currently, I’m working on various personal projects, including a LMS. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
 
-<br><br><br>
+<br><br>
 
 <table align="center">
 <tr>
@@ -29,11 +29,11 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br>
   <b>CSS3</b>
 </td>
-<td align="center" width="90" height="110">
+<td align="center" width="95" height="110">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /><br>
   <b>JavaScript</b>
 </td>
-<td align="center" width="90" height="110">
+<td align="center" width="95" height="110">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br>
   <b>Bootstrap</b>
 </td>
