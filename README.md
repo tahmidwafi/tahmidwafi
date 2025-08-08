@@ -25,35 +25,35 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br>
   <b>HTML5</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br>
   <b>CSS3</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /><br>
   <b>JavaScript</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br>
   <b>Bootstrap</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" /><br>
   <b>React</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /><br>
   <b>Python</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br>
   <b>Git</b>
 </td>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="120">
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" /><br>
   <b>GitHub</b>
 </td>
-<td align="center" width="100" height="80">
+<td align="center" width="100" height="120">
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" /><br>
   <b>VS Code</b>
 </td>
