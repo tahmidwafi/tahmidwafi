@@ -3,8 +3,8 @@
 ![](https://pbs.twimg.com/profile_banners/1818892229093773312/1749708997)
 
 <p>
-🌱 I’m currently learning Django <br>
-👯 I’m looking to collaborate on Github <br>
+🌱 I’m passionate about learning new tupics<br>
+👯 I’m looking to collaborate on GitHub <br>
 💬 Ask me about Web Development <br>
 📫 How to reach me: codepanel2024@gmail.com <br>
 ⚡ Fun fact: Solving Math Problem <br>
@@ -21,35 +21,35 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 
 <table align="center">
 <tr>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br>
   <b>HTML5</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br>
   <b>CSS3</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /><br>
   <b>JavaScript</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br>
   <b>Bootstrap</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" /><br>
   <b>React</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /><br>
   <b>Python</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br>
   <b>Git</b>
 </td>
-<td align="center" width="84" height="110">
+<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" /><br>
   <b>GitHub</b>
 </td>
