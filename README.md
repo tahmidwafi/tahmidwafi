@@ -19,7 +19,7 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 
 ## Skills
 
-<div align="center">
+/* <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
@@ -31,7 +31,54 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-</div>
+</div> */
+table align="center">
+<tr>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" /><br>
+  <b>HTML5</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" /><br>
+  <b>CSS3</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" /><br>
+  <b>JavaScript</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" /><br>
+  <b>Bootstrap</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /><br>
+  <b>React</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" /><br>
+  <b>Node.js</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /><br>
+  <b>Python</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /><br>
+  <b>Git</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /><br>
+  <b>GitHub</b>
+</td>
+<td align="center" width="120" height="120">
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" /><br>
+  <b>VS Code</b>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahmidwafi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
