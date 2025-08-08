@@ -16,9 +16,7 @@ Hi, I'm Tahmid Sharif, a Learner and Little Educator passionate about coding and
 In addition to coding, I love sharing knowledge through tutorials, blog posts, and videos on my YouTube channel, CodePanel. I'm also working on writing books that cover topics like Python programming and English grammar. When I’m not developing projects or writing, I contribute to open-source communities and collaborate with other developers to create useful tools.
 
 Currently, I’m working on various personal projects, including a LMS. I'm also diving deeper into artificial intelligence and machine learning to expand my expertise in these exciting fields.
-
-## Skills
-
+<br><br>
 <table align="center">
 <tr>
 <td align="center" width="82" height="110">
@@ -60,12 +58,12 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 </tr>
 </table>
 
+<br><br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahmidwafi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidwafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahmidwafi" alt="tahmidwafi" /></a> </p>
 
 ## You can reach me on
 [<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
