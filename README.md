@@ -30,6 +30,20 @@ Currently, I’m working on various personal projects, including a Python-based 
   ✅ Flask</li>
 </pre>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahmidwafi" alt="tahmidwafi" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidwafi&show_icons=true&locale=en&layout=compact" alt="tahmidwafi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidwafi&show_icons=true&locale=en" alt="tahmidwafi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidwafi&" alt="tahmidwafi" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-TahmidSharifWafi)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## You can reach me on
