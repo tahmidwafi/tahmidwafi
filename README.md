@@ -28,11 +28,9 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactjs" height="60" alt="reactjs logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="reactjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootrtrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
 </div>
 
 <div align="center">
