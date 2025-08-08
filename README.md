@@ -69,31 +69,12 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 
 <br>
 
-## You can reach me on
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.youtube.com/@codepanelBD" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/youtube-play.png" alt="YouTube" width="50" style="background-color:#FF0000; padding:10px; border-radius:50%;">
-  </a>
-  <a href="https://x.com/tahmidwafi" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" alt="Twitter" width="50" style="background-color:#1DA1F2; padding:10px; border-radius:50%;">
-  </a>
-  <a href="https://www.linkedin.com/in/tahmidsharif" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="50" style="background-color:#0A66C2; padding:10px; border-radius:50%;">
-  </a>
-  <a href="https://www.codewars.com/users/tahmidwafi" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" alt="Codewars" width="50" style="background-color:#B1361E; padding:10px; border-radius:50%;">
-  </a>
-  <a href="https://leetcode.com/u/tahmidwafi/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" alt="Leetcode" width="50" style="background-color:#FFA116; padding:10px; border-radius:50%;">
-  </a>
-  <a href="https://captainbinary.com/performance" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/laptop.png" alt="CaptainBinary" width="50" style="background-color:#4CAF50; padding:10px; border-radius:50%;">
-  </a>
-  <a href="mailto:tahmidsharifwafi@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" width="50" style="background-color:#EA4335; padding:10px; border-radius:50%;">
-  </a>
-</p>
-
-[<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codepanelBD)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tahmidwafi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmidsharif)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/tahmidwafi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tahmidwafi/)
+[![CaptainBinary](https://img.shields.io/badge/CaptainBinary-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://captainbinary.com/performance)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidsharifwafi@gmail.com)
