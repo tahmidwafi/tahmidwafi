@@ -21,7 +21,7 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 
 <table align="center">
 <tr>
-<td align="center" width="80" height="80">
+<td align="center" width="80" height="90">
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br>
   <b>HTML5</b>
 </td>
