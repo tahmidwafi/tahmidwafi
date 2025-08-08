@@ -19,7 +19,7 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 
 ## Skills
 
-/* <div align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
@@ -31,8 +31,8 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-</div> */
-table align="center">
+</div> 
+<table align="center">
 <tr>
 <td align="center" width="120" height="120">
   <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" /><br>
