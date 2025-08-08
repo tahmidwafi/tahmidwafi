@@ -70,4 +70,34 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
 <br>
 
 ## You can reach me on
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.youtube.com/@codepanelBD" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="https://x.com/tahmidwafi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tahmidsharif" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.codewars.com/users/tahmidwafi" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codewars-computer-programming-website-logo-color-tal-revivo.png" alt="Codewars"/>
+  </a>
+  <a href="https://leetcode.com/u/tahmidwafi/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  <a href="https://captainbinary.com/performance" target="_blank">
+    <img src="https://img.icons8.com/color/48/computer.png" alt="CaptainBinary"/>
+  </a>
+  <a href="mailto:tahmidsharifwafi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Main Email"/>
+  </a>
+  <a href="mailto:codepanel2024@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/mail.png" alt="Team Email"/>
+  </a>
+</p>
+
+
 [<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png' alt='github' height='40'>](https://github.com/Md-TahmidSharifWafi)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='twitter' height='40'>](https://x.com/TahmidWafi2557)  [<img src='https://cdn-icons-png.freepik.com/256/15707/15707874.png?semt=ais_hybrid' alt='YouTube' height='40'>](https://www.youtube.com/@codepanel2024)
