@@ -50,8 +50,8 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <b>Git</b>
 </td>
 <td align="center" width="90" height="110">
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" /><br>
-  <b>GitHub</b>
+  <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" /><br>
+  <b>Django</b>
 </td>
 <td align="center" width="100" height="110">
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" /><br>
