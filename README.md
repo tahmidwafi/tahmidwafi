@@ -30,12 +30,12 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <b>CSS3</b>
 </td>
 <td align="center" width="100" height="110">
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /><br>
-  <b>JavaScript</b>
-</td>
-<td align="center" width="100" height="110">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br>
   <b>Bootstrap</b>
+</td>
+<td align="center" width="100" height="110">
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" /><br>
+  <b>JavaScript</b>
 </td>
 <td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" /><br>
@@ -46,12 +46,12 @@ Currently, I’m working on various personal projects, including a LMS. I'm also
   <b>Python</b>
 </td>
 <td align="center" width="90" height="110">
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br>
-  <b>Git</b>
-</td>
-<td align="center" width="90" height="110">
   <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" /><br>
   <b>Django</b>
+</td>
+<td align="center" width="90" height="110">
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br>
+  <b>Git</b>
 </td>
 <td align="center" width="100" height="110">
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" /><br>
